@@ -1,0 +1,6 @@
+D:\OneDrive - vyatsu\Apps\MyLibrary\MathLibrary\bin\Debug\MathLibrary.dll
+D:\OneDrive - vyatsu\Apps\MyLibrary\MathLibrary\bin\Debug\MathLibrary.pdb
+D:\OneDrive - vyatsu\Apps\MyLibrary\MathLibrary\obj\Debug\MathLibrary.csproj.AssemblyReference.cache
+D:\OneDrive - vyatsu\Apps\MyLibrary\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+D:\OneDrive - vyatsu\Apps\MyLibrary\MathLibrary\obj\Debug\MathLibrary.dll
+D:\OneDrive - vyatsu\Apps\MyLibrary\MathLibrary\obj\Debug\MathLibrary.pdb
